@@ -65,7 +65,7 @@ export const Contact = () => {
 
           <div className="h-[500px] w-full rounded-3xl overflow-hidden border border-white/10 grayscale contrast-125">
              <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15065.736340263435!2d73.1256059!3d19.2312675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be795bc765c9f55%3A0xc3f95e57134375b5!2sKalyan%20East%2C%20Kalyan%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15070.362020604625!2d73.12405768715819!3d19.213079900000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be79451d0102785%3A0xd52a177fe63f8f67!2z4KSV4KWHIOCkj-CkriDgpKvgpL_gpJ_gpKjgpYfgpLgg4KSV4KWN4KSy4KSs!5e0!3m2!1sen!2sin!4v1774803260657!5m2!1sen!2sin" 
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }} 
